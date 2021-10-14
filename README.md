@@ -1,5 +1,5 @@
 ### Olá!!! eu sou Marcos Paulo 
-- 🌱 I’m currently learning HTML5 and CSS3
+- 🌱 I’m currently learning HTML5, CSS3 and Java
 
  <div>
   <a href="https://github.com/mpaullos">
