@@ -13,6 +13,8 @@
   <img align="center" alt="Logo-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gif-Progamador" height="200em" width="200em" src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif">
+   <img alingn="center" src="https://profile-counter.glitch.me/mpaullos/count.svg" />
+  
   
  
 </div>
