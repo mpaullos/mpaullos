@@ -1,6 +1,5 @@
 ### Olá!!! eu sou Marcos Paulo 
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
-
+- 🌱 I’m currently learning React :atom_symbol:
  <div>
   <a href="https://github.com/mpaullos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mpaullos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
